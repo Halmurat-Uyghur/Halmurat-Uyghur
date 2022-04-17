@@ -1,6 +1,4 @@
 
-
-
 <!---
 Halmurat-Uyghur/Halmurat-Uyghur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -94,7 +92,9 @@ these areas of expertise to deliver value as an automation engineer with geotech
 
 ## 📫 How to reach me ...
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/halmurat-tahir/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Halmurat-Uyghur)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/halmurat_sdet)  
-[<img src='http://cdn.onlinewebfonts.com/svg/img_527746.png' alt='mySite' height='40'>](https://www.halmurattahir.com/)  
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/halmurat-tahir/)
+[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Halmurat-Uyghur)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/halmurat_sdet)  
+
+#### 🕸 Personal WebSite
+[<img src='https://toppng.com/uploads/preview/web-png-jpg-transparent-stock-website-icon-blue-11563644926reanjnmk6x.png' alt='mySite' height='40'>](https://www.halmurattahir.com/)  
