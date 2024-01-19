@@ -93,7 +93,7 @@ these areas of expertise to deliver value as an automation engineer with geotech
 ## 📫 How to reach me ...
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/halmurat-tahir/)
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/Halmurat-Uyghur)
+[<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-icons-logo-portable-network-graphics-clip-6362014%2F&psig=AOvVaw2DKUEMiDl9vZf7BSk6HLvw&ust=1705776693520000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODc_cKP6oMDFQAAAAAdAAAAABAD' alt='github' height='40'>](https://github.com/Halmurat-Uyghur)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png' alt='hackerrank' height='40'>](https://www.hackerrank.com/halmurat_sdet)  
 
 #### 🕸 Personal WebSite
