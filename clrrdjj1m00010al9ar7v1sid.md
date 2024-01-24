@@ -3,6 +3,8 @@ title: "Understanding Cypress: A Simple Guide 🌳"
 datePublished: Wed Jan 24 2024 05:58:21 GMT+0000 (Coordinated Universal Time)
 cuid: clrrdjj1m00010al9ar7v1sid
 slug: understanding-cypress-a-simple-guide
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706076020788/ef1770f0-e886-41a3-a868-5bdf6bd26f62.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1706076097391/c503f431-7d0e-4884-8f00-9396b618d24d.png
 tags: test-automation, cypress
 
 ---
