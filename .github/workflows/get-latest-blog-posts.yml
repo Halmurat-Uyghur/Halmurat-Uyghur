@@ -12,10 +12,9 @@ jobs:
     steps:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@v4.1.1
-
       - uses: actions/setup-node@v4
         with:
-          node-version: '20.0'
+          node-version: '20'
 
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
