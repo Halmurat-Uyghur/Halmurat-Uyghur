@@ -15,19 +15,17 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          # Version Spec of the version to use in SemVer notation.
-          # It also emits such aliases as lts, latest, nightly and canary builds
-          # Examples: 12.x, 10.15.1, >=10.15.0, lts/Hydrogen, 16-nightly, latest, node
           node-version: '20.0'
-#      - name: "📚  Hashnode Updater"
-#        uses: "varunsridharan/action-hashnode-blog@main"
-#        with:
-#          USERNAME: 'Halmurat'
-#          COUNT: 5
-#          FILE: "README.md"
-#          STYLE: "blog-left"
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
+        with:
+          USERNAME: 'Halmurat'
+          COUNT: 5
+          FILE: "README.md"
+          STYLE: "blog-left"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: "📚 Get Hashnode Posts"
         id: hashnode-posts
