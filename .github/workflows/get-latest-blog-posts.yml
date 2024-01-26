@@ -13,6 +13,12 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@v4.1.1
 
+      - uses: actions/setup-node@v4
+        with:
+          # Version Spec of the version to use in SemVer notation.
+          # It also emits such aliases as lts, latest, nightly and canary builds
+          # Examples: 12.x, 10.15.1, >=10.15.0, lts/Hydrogen, 16-nightly, latest, node
+          node-version: '20.0'
 #      - name: "📚  Hashnode Updater"
 #        uses: "varunsridharan/action-hashnode-blog@main"
 #        with:
@@ -32,7 +38,7 @@ jobs:
           MAX_POSTS: 5
 
       - name: Display Results
-        run:
+        run: |
           echo "Hashnode Posts: ${{ steps.hashnode-posts.outputs.result }}"
 
       - name: "🔍 Check Response"
