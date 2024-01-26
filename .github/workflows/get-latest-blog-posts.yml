@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: '@Halmurat'
+          USERNAME: 'Halmurat'
           BLOG_URL: 'www.halmurattahir.com'
           COUNT: 5
         env:
