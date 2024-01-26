@@ -131,7 +131,7 @@ Imagine you're in a kitchen 🍳 cooking a meal. You're the chef (the main progr
             <td><a href="https://www.halmurattahir.com/threads-in-java">Read more</a></td>
         </tr>
 <tr>
-            <td><img src="URL_of_default_image" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7ELYu7jeEwo/upload/1abfd352b4e6b73cb4de15948a938fc0.jpeg" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>Evolving with Technology: The Role of an SDET in the Age of AI and Machine Learning</td>
             <td>Introduction
 In the dynamic world of software development, the role of a Software Development Engineer in Test (SDET) has traditionally centered around automating and improving software testing processes. However, as artificial intelligence (AI) and ...</td>
