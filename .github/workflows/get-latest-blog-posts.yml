@@ -11,17 +11,29 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "📥  Fetching Repository Contents"
-        uses: actions/checkout@main
+        uses: actions/checkout@v4.1.1
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+#      - name: "📚  Hashnode Updater"
+#        uses: "varunsridharan/action-hashnode-blog@main"
+#        with:
+#          USERNAME: 'Halmurat'
+#          COUNT: 5
+#          FILE: "README.md"
+#          STYLE: "blog-left"
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "📚 Get Hashnode Posts"
+        id: hashnode-posts
+        uses: anupammajhi/githubaction-latest-hashnode-posts@v1.0.0
         with:
-          USERNAME: 'Halmurat'
-          COUNT: 5
-          FILE: "README.md"
-          STYLE: "blog-left"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+          HASHNODE_GQL_ENDPOINT: 'https://gql.hashnode.com'
+          MAX_POSTS: 5
+
+      - name: Display Results
+        run:
+          echo "Hashnode Posts: ${{ steps.hashnode-posts.outputs.result }}"
 
       - name: "🔍 Check Response"
         if: failure()
