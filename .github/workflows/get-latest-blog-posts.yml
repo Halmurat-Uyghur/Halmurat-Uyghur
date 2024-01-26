@@ -17,7 +17,18 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@1.2"
         with:
           USERNAME: 'Halmurat'
-          BLOG_URL: 'https://halmurat.hashnode.dev'
+          BLOG_URL: 'https://www.halmurattahir.com/'
           COUNT: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: "🔍 Check Response"
+        if: failure()
+        run: |
+          echo "The Hashnode Updater step failed. Check the logs for details."
+
+      - name: "🖨️ Print Status"
+        if: success()
+        run: |
+          echo "Repository content fetched successfully"
+          echo "Hashnode blog updated successfully"
