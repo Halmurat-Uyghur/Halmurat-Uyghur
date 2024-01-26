@@ -17,8 +17,8 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@1.2"
         with:
           USERNAME: 'Halmurat'
-          BLOG_URL: 'https://halmurat.hashnode.dev'
           COUNT: 5
+          STYLE: "blog-left"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
