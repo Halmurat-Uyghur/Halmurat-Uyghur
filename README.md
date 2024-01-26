@@ -106,6 +106,6 @@ these areas of expertise to deliver value as an automation engineer with geotech
 
 ---
 
-<!-- HASHNODE_BLOG:START -->
+<!-- BLOG:START -->
 
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOG:END -->
