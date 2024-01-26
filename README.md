@@ -137,6 +137,12 @@ Imagine you're in a kitchen 🍳 cooking a meal. You're the chef (the main progr
 In the dynamic world of software development, the role of a Software Development Engineer in Test (SDET) has traditionally centered around automating and improving software testing processes. However, as artificial intelligence (AI) and ...</td>
             <td><a href="https://www.halmurattahir.com/evolving-with-technology-the-role-of-an-sdet-in-the-age-of-ai-and-machine-learning">Read more</a></td>
         </tr>
+<tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706279114466/43d84c64-13a2-4c87-be45-294e15a9a4fc.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>Mastering XPath: Finding Text in Elements Made Easy 🌟</td>
+            <td>Welcome back to our tech blog, where we demystify the complexities of coding! Today, let's unravel the mysteries of XPath syntax for finding text within elements. XPath can be intimidating, but fear not; we'll make it simple, practical, and sprinkle ...</td>
+            <td><a href="https://www.halmurattahir.com/mastering-xpath-finding-text-in-elements-made-easy">Read more</a></td>
+        </tr>
 </table>
 
 <!-- BLOG:END -->
