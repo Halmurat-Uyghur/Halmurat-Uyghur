@@ -107,5 +107,36 @@ these areas of expertise to deliver value as an automation engineer with geotech
 ---
 
 <!-- BLOG:START -->
+<table>
+<tr><th>Cover Image</th><th>Title</th><th>Brief</th><th>Link</th></tr>
+<tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706076020788/ef1770f0-e886-41a3-a868-5bdf6bd26f62.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>Understanding Cypress: A Simple Guide 🌳</td>
+            <td>What is Cypress? 🤔
+Cypress is a modern, powerful tool for testing web applications. It's designed to make the life of developers and QA engineers easier by simplifying the process of writing, running, and debugging tests for web applications.
+Key Fe...</td>
+            <td><a href="https://www.halmurattahir.com/understanding-cypress-a-simple-guide">Read more</a></td>
+        </tr>
+<tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706070355147/ca8b1b92-7232-4e3e-a2a1-0bcb555a8470.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>Asynchronous vs. Synchronous Programming: Key Similarities and Differences 🚀🤖</td>
+            <td>In the dynamic world of software development, understanding the concepts of asynchronous and synchronous programming is like unlocking new levels in a video game 🎮. These concepts are crucial for developers, especially when dealing with how a progra...</td>
+            <td><a href="https://www.halmurattahir.com/asynchronous-vs-synchronous-programming-key-similarities-and-differences">Read more</a></td>
+        </tr>
+<tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706069690280/7809eaa3-4c7a-4df4-a121-3d2ba5bed430.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>Threads in Java 🧶</td>
+            <td>What are Threads in Java? 🧵 (Simple Explanation)
+Imagine you're in a kitchen 🍳 cooking a meal. You're the chef (the main program), and you have several tasks like chopping vegetables 🥕, boiling water 💧, and frying eggs 🍳. In a normal scenario (s...</td>
+            <td><a href="https://www.halmurattahir.com/threads-in-java">Read more</a></td>
+        </tr>
+<tr>
+            <td><img src="URL_of_default_image" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>Evolving with Technology: The Role of an SDET in the Age of AI and Machine Learning</td>
+            <td>Introduction
+In the dynamic world of software development, the role of a Software Development Engineer in Test (SDET) has traditionally centered around automating and improving software testing processes. However, as artificial intelligence (AI) and ...</td>
+            <td><a href="https://www.halmurattahir.com/evolving-with-technology-the-role-of-an-sdet-in-the-age-of-ai-and-machine-learning">Read more</a></td>
+        </tr>
+</table>
 
 <!-- BLOG:END -->
