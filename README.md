@@ -110,6 +110,13 @@ these areas of expertise to deliver value as an automation engineer with geotech
 <table>
 <tr><th>Cover Image</th><th>Title</th><th>Brief</th><th>Link</th></tr>
 <tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706512648029/aab64caa-05ad-491b-886b-aee3be382f7a.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>Making Test Results Pop with Slack: A Colorful Guide 🌈</td>
+            <td>The Spotlight on Test Scores 🎯
+In the world of creating cool apps and websites, tests are like secret heroes that make sure everything works perfectly. But, what if nobody sees the signals from our heroes? That's why showing test scores where everyo...</td>
+            <td><a href="https://www.halmurattahir.com/making-test-results-pop-with-slack-a-colorful-guide">Read more</a></td>
+        </tr>
+<tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706076020788/ef1770f0-e886-41a3-a868-5bdf6bd26f62.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>Understanding Cypress: A Simple Guide 🌳</td>
             <td>What is Cypress? 🤔
@@ -136,14 +143,6 @@ Imagine you're in a kitchen 🍳 cooking a meal. You're the chef (the main progr
             <td>Introduction
 In the dynamic world of software development, the role of a Software Development Engineer in Test (SDET) has traditionally centered around automating and improving software testing processes. However, as artificial intelligence (AI) and ...</td>
             <td><a href="https://www.halmurattahir.com/evolving-with-technology-the-role-of-an-sdet-in-the-age-of-ai-and-machine-learning">Read more</a></td>
-        </tr>
-<tr>
-            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706280552662/9953fc07-554f-4031-bc16-09149d6f68c2.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
-            <td>Java Decoded: Mastering the Art of Coupling for Smoother, More Efficient Code! 🌟💻🚀</td>
-            <td>Alright, let's dive into the world of Java coupling in a fun and easy-to-understand way! 🚀
-What is Coupling in Java? 🤔
-Coupling refers to the degree of direct knowledge that one class has about another. This isn't about the class's knowledge of ano...</td>
-            <td><a href="https://www.halmurattahir.com/java-decoded-mastering-the-art-of-coupling-for-smoother-more-efficient-code">Read more</a></td>
         </tr>
 </table>
 
