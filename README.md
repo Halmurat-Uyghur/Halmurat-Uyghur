@@ -110,6 +110,12 @@ these areas of expertise to deliver value as an automation engineer with geotech
 <table>
 <tr><th>Cover Image</th><th>Title</th><th>Brief</th><th>Link</th></tr>
 <tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707177242929/a3bd473d-df87-4e50-ab31-3c6bd1e6fbab.webp" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>🚀 Passing Inputs to Tests with GitHub Actions: A Fun Guide 🚀</td>
+            <td>Hey there, young explorers of the coding universe! 🌌 Today, we're diving into a cool way to tell our computer programs what to do by passing them some inputs, kind of like giving directions on a treasure map! 🗺️ In the vast sea of GitHub (our favor...</td>
+            <td><a href="https://www.halmurattahir.com/passing-inputs-to-tests-with-github-actions-a-fun-guide">Read more</a></td>
+        </tr>
+<tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706512648029/aab64caa-05ad-491b-886b-aee3be382f7a.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>Making Test Results Pop with Slack: A Colorful Guide 🌈</td>
             <td>The Spotlight on Test Scores 🎯
@@ -136,13 +142,6 @@ Key Fe...</td>
             <td>What are Threads in Java? 🧵 (Simple Explanation)
 Imagine you're in a kitchen 🍳 cooking a meal. You're the chef (the main program), and you have several tasks like chopping vegetables 🥕, boiling water 💧, and frying eggs 🍳. In a normal scenario (s...</td>
             <td><a href="https://www.halmurattahir.com/threads-in-java">Read more</a></td>
-        </tr>
-<tr>
-            <td><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/7ELYu7jeEwo/upload/1abfd352b4e6b73cb4de15948a938fc0.jpeg" alt="No Image" style="max-width:100px; max-height:100px;"></td>
-            <td>Evolving with Technology: The Role of an SDET in the Age of AI and Machine Learning</td>
-            <td>Introduction
-In the dynamic world of software development, the role of a Software Development Engineer in Test (SDET) has traditionally centered around automating and improving software testing processes. However, as artificial intelligence (AI) and ...</td>
-            <td><a href="https://www.halmurattahir.com/evolving-with-technology-the-role-of-an-sdet-in-the-age-of-ai-and-machine-learning">Read more</a></td>
         </tr>
 </table>
 
