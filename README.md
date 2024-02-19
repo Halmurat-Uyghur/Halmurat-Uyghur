@@ -137,7 +137,7 @@ Key Fe...</td>
             <td><a href="https://www.halmurattahir.com/asynchronous-vs-synchronous-programming-key-similarities-and-differences">Read more</a></td>
         </tr>
 <tr>
-            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706069690280/7809eaa3-4c7a-4df4-a121-3d2ba5bed430.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708357230996/82945d2f-c61a-47a2-a059-4ecab81fc92d.webp" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>Threads in Java 🧶</td>
             <td>What are Threads in Java? 🧵 (Simple Explanation)
 Imagine you're in a kitchen 🍳 cooking a meal. You're the chef (the main program), and you have several tasks like chopping vegetables 🥕, boiling water 💧, and frying eggs 🍳. In a normal scenario (s...</td>
