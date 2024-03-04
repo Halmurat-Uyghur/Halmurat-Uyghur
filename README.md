@@ -110,6 +110,14 @@ these areas of expertise to deliver value as an automation engineer with geotech
 <table>
 <tr><th>Cover Image</th><th>Title</th><th>Brief</th><th>Link</th></tr>
 <tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709458047433/30e010c4-8c08-48b7-bbb6-4bfddd1e48e4.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>🌟 Web Hooks vs. APIs: A Friendly Guide</td>
+            <td>Imagine you're at a party 🎉. You meet two incredible helpers that can make your tech party even more fun: Web Hooks and APIs. They might seem similar at first glance, but they have different roles to play.
+🤖 What is an API?
+Think of an API (Applica...</td>
+            <td><a href="https://www.halmurattahir.com/web-hooks-vs-apis-a-friendly-guide">Read more</a></td>
+        </tr>
+<tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707177242929/a3bd473d-df87-4e50-ab31-3c6bd1e6fbab.webp" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>🚀 Passing Inputs to Tests with GitHub Actions: A Fun Guide 🚀</td>
             <td>Hey there, young explorers of the coding universe! 🌌 Today, we're diving into a cool way to tell our computer programs what to do by passing them some inputs, kind of like giving directions on a treasure map! 🗺️ In the vast sea of GitHub (our favor...</td>
@@ -135,13 +143,6 @@ Key Fe...</td>
             <td>Asynchronous vs. Synchronous Programming: Key Similarities and Differences 🚀🤖</td>
             <td>In the dynamic world of software development, understanding the concepts of asynchronous and synchronous programming is like unlocking new levels in a video game 🎮. These concepts are crucial for developers, especially when dealing with how a progra...</td>
             <td><a href="https://www.halmurattahir.com/asynchronous-vs-synchronous-programming-key-similarities-and-differences">Read more</a></td>
-        </tr>
-<tr>
-            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1708357230996/82945d2f-c61a-47a2-a059-4ecab81fc92d.webp" alt="No Image" style="max-width:100px; max-height:100px;"></td>
-            <td>Threads in Java 🧶</td>
-            <td>What are Threads in Java? 🧵 (Simple Explanation)
-Imagine you're in a kitchen 🍳 cooking a meal. You're the chef (the main program), and you have several tasks like chopping vegetables 🥕, boiling water 💧, and frying eggs 🍳. In a normal scenario (s...</td>
-            <td><a href="https://www.halmurattahir.com/threads-in-java">Read more</a></td>
         </tr>
 </table>
 
