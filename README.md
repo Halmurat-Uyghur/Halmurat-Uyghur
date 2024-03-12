@@ -110,6 +110,13 @@ these areas of expertise to deliver value as an automation engineer with geotech
 <table>
 <tr><th>Cover Image</th><th>Title</th><th>Brief</th><th>Link</th></tr>
 <tr>
+            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1710130568748/440734ee-2d65-4976-b41a-c45d19f0a639.webp" alt="No Image" style="max-width:100px; max-height:100px;"></td>
+            <td>Managing Text Data in Test Automation: A Guide to Making Your Tests Talk the Right Language 🗣️</td>
+            <td>Hello, tech enthusiasts! Today, let’s delve into a critical aspect of test automation: managing text data efficiently and effectively. Text is the core of user interaction in any application, so let’s get it right! 💬
+The Basics: Why Text Matters? 📜...</td>
+            <td><a href="https://www.halmurattahir.com/managing-text-data-in-test-automation-a-guide-to-making-your-tests-talk-the-right-language">Read more</a></td>
+        </tr>
+<tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709458047433/30e010c4-8c08-48b7-bbb6-4bfddd1e48e4.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>🌟 Web Hooks vs. APIs: A Friendly Guide</td>
             <td>Imagine you're at a party 🎉. You meet two incredible helpers that can make your tech party even more fun: Web Hooks and APIs. They might seem similar at first glance, but they have different roles to play.
@@ -137,12 +144,6 @@ In the world of creating cool apps and websites, tests are like secret heroes th
 Cypress is a modern, powerful tool for testing web applications. It's designed to make the life of developers and QA engineers easier by simplifying the process of writing, running, and debugging tests for web applications.
 Key Fe...</td>
             <td><a href="https://www.halmurattahir.com/understanding-cypress-a-simple-guide">Read more</a></td>
-        </tr>
-<tr>
-            <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706070355147/ca8b1b92-7232-4e3e-a2a1-0bcb555a8470.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
-            <td>Asynchronous vs. Synchronous Programming: Key Similarities and Differences 🚀🤖</td>
-            <td>In the dynamic world of software development, understanding the concepts of asynchronous and synchronous programming is like unlocking new levels in a video game 🎮. These concepts are crucial for developers, especially when dealing with how a progra...</td>
-            <td><a href="https://www.halmurattahir.com/asynchronous-vs-synchronous-programming-key-similarities-and-differences">Read more</a></td>
         </tr>
 </table>
 
