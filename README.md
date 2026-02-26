@@ -114,7 +114,7 @@ these areas of expertise to deliver value as an automation engineer with geotech
             <td>Managing Text Data in Test Automation: A Guide to Making Your Tests Talk the Right Language 🗣️</td>
             <td>Hello, tech enthusiasts! Today, let’s delve into a critical aspect of test automation: managing text data efficiently and effectively. Text is the core of user interaction in any application, so let’s get it right! 💬
 The Basics: Why Text Matters? 📜...</td>
-            <td><a href="https://www.halmurattahir.com/managing-text-data-in-test-automation-a-guide-to-making-your-tests-talk-the-right-language">Read more</a></td>
+            <td><a href="https://www.halmurattahir.com">Read more</a></td>
         </tr>
 <tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1709458047433/30e010c4-8c08-48b7-bbb6-4bfddd1e48e4.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
@@ -122,20 +122,20 @@ The Basics: Why Text Matters? 📜...</td>
             <td>Imagine you're at a party 🎉. You meet two incredible helpers that can make your tech party even more fun: Web Hooks and APIs. They might seem similar at first glance, but they have different roles to play.
 🤖 What is an API?
 Think of an API (Applica...</td>
-            <td><a href="https://www.halmurattahir.com/web-hooks-vs-apis-a-friendly-guide">Read more</a></td>
+            <td><a href="https://www.halmurattahir.com">Read more</a></td>
         </tr>
 <tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707177242929/a3bd473d-df87-4e50-ab31-3c6bd1e6fbab.webp" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>🚀 Passing Inputs to Tests with GitHub Actions: A Fun Guide 🚀</td>
             <td>Hey there, young explorers of the coding universe! 🌌 Today, we're diving into a cool way to tell our computer programs what to do by passing them some inputs, kind of like giving directions on a treasure map! 🗺️ In the vast sea of GitHub (our favor...</td>
-            <td><a href="https://www.halmurattahir.com/passing-inputs-to-tests-with-github-actions-a-fun-guide">Read more</a></td>
+            <td><a href="https://www.halmurattahir.com">Read more</a></td>
         </tr>
 <tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706512648029/aab64caa-05ad-491b-886b-aee3be382f7a.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
             <td>Making Test Results Pop with Slack: A Colorful Guide 🌈</td>
             <td>The Spotlight on Test Scores 🎯
 In the world of creating cool apps and websites, tests are like secret heroes that make sure everything works perfectly. But, what if nobody sees the signals from our heroes? That's why showing test scores where everyo...</td>
-            <td><a href="https://www.halmurattahir.com/making-test-results-pop-with-slack-a-colorful-guide">Read more</a></td>
+            <td><a href="https://www.halmurattahir.com">Read more</a></td>
         </tr>
 <tr>
             <td><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1706076020788/ef1770f0-e886-41a3-a868-5bdf6bd26f62.png" alt="No Image" style="max-width:100px; max-height:100px;"></td>
@@ -143,7 +143,7 @@ In the world of creating cool apps and websites, tests are like secret heroes th
             <td>What is Cypress? 🤔
 Cypress is a modern, powerful tool for testing web applications. It's designed to make the life of developers and QA engineers easier by simplifying the process of writing, running, and debugging tests for web applications.
 Key Fe...</td>
-            <td><a href="https://www.halmurattahir.com/understanding-cypress-a-simple-guide">Read more</a></td>
+            <td><a href="https://www.halmurattahir.com">Read more</a></td>
         </tr>
 </table>
 
